@@ -44,7 +44,7 @@
 ```
 จะปรากฎข้อความดังต่อไปนี้
 
-![run.png](img/run.png)
+![6.PNG](https://github.com/AvirutRut/blynkServer/blob/master/img/6.PNG)
 
 5. ทดลองเข้าใช้งาน Blynk Server 
     1. ผ่านหน้าเว็บไซต์โดยไปยัง URL
@@ -53,7 +53,7 @@
         ```
         จะปรากฎหน้าเว็บดังรูป
 
-        ![web.png](img/web.png)
+        ![7.PNG](https://github.com/AvirutRut/blynkServer/blob/master/img/7.PNG)
 
         เข้าสู่ระบบโดยใช้ข้อมูลดังต่อไปนี้
         ```
@@ -66,7 +66,7 @@
 
         เมื่อเข้าสู่หน้าเว็บแล้วจะปรากฎหน้าเว็บดังต่อไปนี้
 
-        ![dashboard.png](img/dashboard.png)
+        ![8.PNG](https://github.com/AvirutRut/blynkServer/blob/master/img/8.PNG)
         
     2. ผ่าน Mobile Application
         1. เข้า Application Blynk เลือก Login
