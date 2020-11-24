@@ -82,4 +82,4 @@
         ![4.jpg](https://github.com/AvirutRut/-blynkServer/blob/master/img/4.jpg)
 
         5. ปรากฎหน้าต่าง Dashboard อันหมายความว่า Server สามารถใช้งานได้ ดังรูป
-        ![dashboard.png](img/IMG_5330.PNG)
+        ![5.jpg](https://github.com/AvirutRut/-blynkServer/blob/master/img/5.jpg)
